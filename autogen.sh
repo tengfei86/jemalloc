@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/sh
 
 for i in autoconf; do
     echo "$i"
